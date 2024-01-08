@@ -1,0 +1,14 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.time{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(242, 210, 84);
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 150px;
+}
