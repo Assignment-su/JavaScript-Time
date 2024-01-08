@@ -2,6 +2,9 @@
 
 > 연도와 달, 날짜까지 표시되는 시계 기능 구현
 
+
+![2024-01-08-15_35_48](https://github.com/Assignment-su/JavaScript-Time/assets/99783474/2383b84c-28cb-46cb-a7ba-964ca2c9e22f)
+
 ```javascript
 function updateClock() {
         // 현재 시간을 가져오기
